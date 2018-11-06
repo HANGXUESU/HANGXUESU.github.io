@@ -31,9 +31,9 @@ force-https: True
 lang: "en"
 author: " the end"
 title: "{HANGXUESU  }"
-description: ""
+description: "个人博客"
 keywords: "HANGXUESU,the end"
-favicon: "http://HANGXUESU.github.io"
+favicon: ""
 
 ################
 # Header layout #

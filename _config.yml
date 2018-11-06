@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -28,12 +28,12 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: " hh"
-title: "{HANGXUESU  }"
-description: "个人博客"
-keywords: "HANGXUESU,hh"
-favicon: ""
+lang: zh-Hans
+author: hh
+title: HANGXUESU
+description: 个人博客
+keywords: HANGXUESU,hh
+favicon: 
 
 ################
 # Header layout #

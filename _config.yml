@@ -34,6 +34,7 @@ title: HANGXUESU
 description: 个人博客
 keywords: HANGXUESU,hh
 favicon: 
+date_format: '%Y-%m-%d'
 
 ################
 # Header layout #
